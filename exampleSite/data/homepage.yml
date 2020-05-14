@@ -68,7 +68,7 @@ service:
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
+    highlighted: true
   - title: UX Design
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -78,7 +78,7 @@ service:
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: false
+    highlighted: true
 portfolio:
   enable: true
   title: Portfolio
